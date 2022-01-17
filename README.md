@@ -1,2 +1,2 @@
 # XDU_allhomework
-XDU_allhomework_19_ai
+XDU_Allhomework_19_AI
